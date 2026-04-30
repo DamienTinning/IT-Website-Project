@@ -1,2 +1,2 @@
-# IT-Website---Work-in-Progress
-IT work, still in progress
+# IT-Website-Project Work-in-Progress
+Certificate Work - improvements and additions coming in the near future
